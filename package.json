@@ -10,6 +10,6 @@
   "author": "Sainath Ramanathan",
   "license": "ISC",
   "dependencies": {
-    "xlsx": "^0.16.4"
+    "xlsx": "^0.17.0"
   }
 }
